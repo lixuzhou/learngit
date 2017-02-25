@@ -23,6 +23,8 @@ hs_err_pid*
 
 # IDEA
 *.iml
-.svn/
-.idea/
-target/
+.svn
+.idea
+target
+
+# My configurations
